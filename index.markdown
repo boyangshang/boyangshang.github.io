@@ -6,29 +6,32 @@ layout: home
 ---
 
 
-<img align="left" src="headshot.jpg " height="250" style="margin:16px;">
+<img src="headshot.jpg" alt="Headshot" style="float:left; margin: 0 20px 20px 0;" height="250">
 
- <font size="2"> I am currently a postdoc fellow at [Department of Statistics and Actuarial Science](https://saasweb.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). 
+I am currently a **Postdoctoral Fellow** in the [Department of Statistics and Actuarial Science](https://saasweb.hku.hk/) at [The University of Hong Kong](https://www.hku.hk/).
 
-I am broadly interested in statistical modeling, design of computer experiments, subsampling and large-scale data reduction, copula modeling and estimation and variable selection. 
+My research interests include:
 
-I am looking for a faculty position in relevant fields. This is my [CV](Boyang_CV_Mar_2026.pdf).</font>
+- statistical modeling
+- design of computer experiments
+- subsampling and large-scale data reduction
+- copula modeling and estimation
+- variable selection
+
+I am currently on the academic job market and am seeking faculty positions in statistics, data science, industrial engineering and related fields. This is my [CV](Boyang_CV_Mar_2026.pdf).</font>
 
 
-<br />
-<br />
-<br />
-<br />
-<br />
+<div style="clear: both;"></div>
 
 ## Contact
-**Office**:<br />	
-Room 207, Run Run Shaw Building,<br />
-[Department of Statistics and Actuarial Science](https://saasweb.hku.hk/),<br />
-[The University of Hong Kong](https://www.hku.hk/),<br />
-Pokfulam, Hong Kong SAR, China<br />
 
-**Office phone number**: +852 3917-2466<br />
-**Current work email**: byshang@hku.hk<br />
-**Permanent school email**: BoyangS@u.northwestern.edu 
+**Office**  
+Room 207, Run Run Shaw Building  
+[Department of Statistics and Actuarial Science](https://saasweb.hku.hk/)  
+[The University of Hong Kong](https://www.hku.hk/)  
+Pokfulam, Hong Kong SAR, China  
+
+**Phone:** +852 3917-2466  
+**Email:** [byshang@hku.hk](mailto:byshang@hku.hk)  
+**Alternate email:** [BoyangS@u.northwestern.edu](mailto:BoyangS@u.northwestern.edu)
 
