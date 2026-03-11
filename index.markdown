@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+I am currently a postdoc fellow at [Department of Statistics and Actuarial Science](https://saasweb.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). I am broadly interested in statistical modeling, design of computer experiments, subsampling and large-scale data reduction, copula modeling and estimation and variable selection. I am looking for a faculty position in related fields. 
