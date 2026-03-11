@@ -18,10 +18,10 @@ My research interests include:
 - copula modeling and estimation
 - variable selection
 
-I am currently on the academic job market and am seeking faculty positions in statistics, data science, industrial engineering and related fields. This is my [CV](Boyang_CV_Mar_2026.pdf).
+I am currently on the academic job market and am seeking faculty <div style="clear: both;"></div> positions in statistics, data science, industrial engineering and related fields. This is my [CV](Boyang_CV_Mar_2026.pdf).
 
 
-<div style="clear: both;"></div>
+
 
 ## Contact
 
