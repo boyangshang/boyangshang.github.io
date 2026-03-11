@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-<img src="headshot.jpg" alt="Headshot" style="float:left; margin: 0 20px 20px 0;" height="250">
+<img src="headshot.jpg" alt="Headshot" style="float:right; margin: 0 20px 20px 0;" height="250">
 
 I am currently a **Postdoctoral Fellow** in the [Department of Statistics and Actuarial Science](https://saasweb.hku.hk/) at [The University of Hong Kong](https://www.hku.hk/).
 
@@ -18,7 +18,7 @@ My research interests include:
 - copula modeling and estimation
 - variable selection
 
-I am currently on the academic job market and am seeking faculty positions in statistics, data science, industrial engineering and related fields. This is my [CV](Boyang_CV_Mar_2026.pdf).</font>
+I am currently on the academic job market and am seeking faculty positions in statistics, data science, industrial engineering and related fields. This is my [CV](Boyang_CV_Mar_2026.pdf).
 
 
 <div style="clear: both;"></div>
