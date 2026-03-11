@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# I am currently a postdoc fellow at [Department of Statistics and Actuarial Science](https://saasweb.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). I am broadly interested in statistical modeling, design of computer experiments, subsampling and large-scale data reduction, copula modeling and estimation and variable selection. I am looking for a faculty position in related fields. 
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -20,13 +20,13 @@
 
 title: Boyang Shang
 email: byshang@hku.hk
-email: boyangshang2015@u.northwestern.edu
+email: BoyangS@u.northwestern.edu
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Updated on Mar 4, 2026.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+github_username:  boyangshang
 
 # Build settings
 theme: minima
@@ -41,9 +41,9 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
 #   - .sass-cache/
-#   - .jekyll-cache/
+   - .jekyll-cache/
 #   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
