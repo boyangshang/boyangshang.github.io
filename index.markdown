@@ -14,13 +14,20 @@ I am broadly interested in statistical modeling, design of computer experiments,
 
 I am looking for a faculty position in relevant fields. This is my [CV](Boyang_CV_Mar_2026.pdf).
 
+
+\
+\
+\
+\
+\
+
 ## Contact
-**Office**: 	
-[Department of Statistics and Actuarial Science](https://saasweb.hku.hk/),
-Room 207, Run Run Shaw Building,
-[The University of Hong Kong](https://www.hku.hk/),
-Pokfulam, Hong Kong SAR, China
-**Office phone number**: +852 3917-2466
-**Current work email**: byshang@hku.hk
+**Office**:\	
+[Department of Statistics and Actuarial Science](https://saasweb.hku.hk/),\
+Room 207, Run Run Shaw Building,\
+[The University of Hong Kong](https://www.hku.hk/),\
+Pokfulam, Hong Kong SAR, China\
+**Office phone number**: +852 3917-2466\
+**Current work email**: byshang@hku.hk\
 **Permanent school email**: BoyangS@u.northwestern.edu 
 
