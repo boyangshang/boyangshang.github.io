@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img align="left" src="headshot.jpg>
+<img style="float: right;" src="headshot.jpg>
 
 I am currently a postdoc fellow at [Department of Statistics and Actuarial Science](https://saasweb.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). 
 
