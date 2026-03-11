@@ -5,8 +5,8 @@
 layout: home
 ---
 
-# ![image alt <](/headshot.jpg =x150)
-<img align="left" src="headshot.jpg " height="100">
+
+<img align="left" src="headshot.jpg " height="250" style="margin:16px;">
 
 I am currently a postdoc fellow at [Department of Statistics and Actuarial Science](https://saasweb.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). 
 
