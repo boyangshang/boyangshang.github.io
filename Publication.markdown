@@ -32,6 +32,10 @@ permalink: /Publications/
   **MMD-based estimation of copula densities by mixture-induced copulas.**  
   Manuscript in preparation.
 
+- **Shang, B.** and Hofert, M.  
+  **Model-Agnostic Variable Selection via Subsampling.**  
+  Manuscript in preparation.
+
 ---
 
 ## Patents
