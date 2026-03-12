@@ -1,18 +1,30 @@
 ---
 layout: page
-title: Research
-permalink: /Research/
+title:  Teaching Experience
+permalink: /Teaching/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Northwestern University, Evanston, IL
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- **IEMS 401 – Applied Mathematical Statistics**  
+  *Grader*, Fall 2017  
+  - Graded homework and exams
 
+- **MSIA 401 – Predictive Analytics**  
+  *Teaching Assistant*, Fall 2018  
+  - Graded homework and exams  
+  - Held weekly one-hour review sessions
 
-[jekyll-organization]: https://github.com/jekyll
+- **IEMS 385 – Introduction to Health System Engineering**  
+  *Teaching Assistant*, Fall 2019  
+  - Designed homework assignments  
+  - Graded homework
+
+- **IEMS 307 – Quality Improvement by Experimental Design**  
+  *Teaching Assistant*, Spring 2021  
+  - Graded homework and exams
+
+- **IEMS 383 – Service Operations Management**  
+  *Teaching Assistant*, Spring 2021  
+  - Graded homework and exams
