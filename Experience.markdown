@@ -4,15 +4,21 @@ title: Experience
 permalink: /Experience/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Academic Appointments
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### The University of Hong Kong, Hong Kong SAR, China  
+**Postdoctoral Fellow**, Department of Statistics and Actuarial Science  
+Advisors: Prof. [Marius J. Hofert](https://saasresearch.hku.hk/~mhofert/)  
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### City University of Hong Kong, Hong Kong SAR, China  
+**Postdoctoral Fellow**, Department of Data Science  
+Advisors: Prof. Lishuai Li and Prof. S. Joe Qin  
 
+---
 
-[jekyll-organization]: https://github.com/jekyll
+## Industrial Appointments
+
+### Amazon.com, Seattle, WA, USA  
+**Data Scientist Intern**  
+Jun 2019 – Sep 2019  
+
